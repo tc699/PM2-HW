@@ -1,2 +1,2 @@
-# PM2-HW
-Programming Methodology 2 HW
+# Tahmid Chowdhury
+Programming Methodology 2 HW Assignments
